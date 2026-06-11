@@ -1,0 +1,9 @@
+name: lncrna_cistrans
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pandas
+  - numpy
+  - r-base
+  - r-data.table
